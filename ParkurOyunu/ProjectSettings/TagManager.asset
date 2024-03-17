@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - OzelEsya
+  - NextLevel
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - MidGround
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Disari
+    uniqueID: 1583944371
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 1679058847
+    locked: 0
+  - name: ForeGround
+    uniqueID: 3286613055
+    locked: 0
+  - name: MidGround
+    uniqueID: 796055371
+    locked: 0
